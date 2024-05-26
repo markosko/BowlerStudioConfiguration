@@ -1,5 +1,17 @@
 {
+  "workspace": {
+    "https://github.com/markosko/AAAA.git": [
+      "markosko/AAAA",
+      "1716732753186"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://github.com/markosko/AAAA.git:AAAA.groovy": [
+      "https://github.com/markosko/AAAA.git",
+      "AAAA.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
