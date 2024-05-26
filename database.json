@@ -10,6 +10,10 @@
     "https://github.com/markosko/AAAA.git:AAAA.groovy": [
       "https://github.com/markosko/AAAA.git",
       "AAAA.groovy"
+    ],
+    "https://github.com/markosko/AAAA.git:AAAAB.py": [
+      "https://github.com/markosko/AAAA.git",
+      "AAAAB.py"
     ]
   },
   "BowlerStudioConfigs": {
